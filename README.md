@@ -6,9 +6,12 @@ to be able to openyourself to different kind of matters.
 of Science.
 - 🌱 I’m currently learning developing myself as Data Engineer on emphasis Machine Learning with Python, SQL or even thoug Rstudio.
 - 💞️ I’m looking to collaborate sharing my codes and differentes types of codind troubles that I used to stuggling and learning at the moment.
-- 📫 You can reach me by linkedin :  www.linkedin.com/in/janathan-studentejunior-271b07182 or Instagram : https://www.instagram.com/janathan_junior/ if you rather.
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-<!---
-Janathan10/Janathan10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 You can reach me by linkedin :   or Instagram :  if you rather.
+
+<div>
+  <a href ="jonathanklauss85@gmail.com" target ="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="www.linkedin.com/in/janathan-studentejunior-271b07182" target ="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href =https://www.instagram.com/janathan_junior/" target ="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
+ 
+</div>
