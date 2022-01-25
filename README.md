@@ -6,7 +6,7 @@ to be able to openyourself to different kind of matters.
 of Science.
 - 🌱 I’m currently learning developing myself as Data Engineer on emphasis Machine Learning with Python, SQL or even thoug Rstudio.
 - 💞️ I’m looking to collaborate sharing my codes and differentes types of codind troubles that I used to stuggling and learning at the moment.
-- 📫 You can reach me by linkedin by the icons below if you rather.
+- 📫 You can reach me by the icons below if you rather.
 
 <div>
   <a href ="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDflkLtjMwBvkNscnbBfGNvmcsptcBqgLmfqtDdqSCTMgVXRXpbrWGbqvVSxGZqjvPrPTp" target ="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
