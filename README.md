@@ -9,8 +9,8 @@ of Science.
 - 📫 You can reach me by linkedin :   or Instagram :  if you rather.
 
 <div>
-  <a href ="jonathanklauss85@gmail.com" target ="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href ="www.linkedin.com/in/janathan-studentejunior-271b07182" target ="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzDflkLtjMwBvkNscnbBfGNvmcsptcBqgLmfqtDdqSCTMgVXRXpbrWGbqvVSxGZqjvPrPTp" target ="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="https://www.linkedin.com/in/janathan-studentejunior-271b07182/" target ="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://www.instagram.com/janathan_junior/" target ="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
  
