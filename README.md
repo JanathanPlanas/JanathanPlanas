@@ -4,7 +4,7 @@ Hello and welcome to my profile! 😊
 to be able to openyourself to different kind of matters. I'm currently on graduation Telecommunication Engineer and enjoying so far.
 - 👀 I’m interested in any content related to Cinema, coding, programming, math & physics, I've used to think how enjoyable could be connection between extremes subject
 of Science.
-- 🌱 I’m currently learning developing myself as Data Engineer on emphasis Machine Learning with Python, SQL or even thoug Rstudio.
+- 🌱 I’m currently working as Management Information System By CRC company and also learning how  to developing myself as Data Engineer on emphasis Machine Learning with Python, SQL or even thoug R studio.
 - 💞️ I’m looking to collaborate sharing my codes and differentes types of codind troubles that I used to stuggling and learning at the moment.
 - 📫 You can reach me by the icons below if you rather.
 
