@@ -10,20 +10,18 @@ Atuo como **Engenheiro de Dados**, com experiência na construção e manutenç�
 
 Tenho familiaridade com ferramentas e linguagens como:
 
-- Python (Pandas, Polars, PySpark)
-- SQL (SQL Server, MySQL)
-- R Studio
+- Python (Duckdb, Polars, PySpark)
+- SQL (SQL Server, MySQL, PostgreSQL)
+- Apache Airflow
 - Git e GitHub
 - Docker
 - Power BI
-- Apache Spark
-
+- Databricks
 ---
 
 ## 🎯 Interesses
 
-- **Engenharia de Dados**: Pipelines, ETL/ELT, arquitetura de dados e boas práticas.
-- **Ciência de Dados e Machine Learning**: Modelos preditivos, tratamento de dados e visualização.
+- **Engenharia de Dados**: Pipelines, ETL/ELT, arquitetura de dados, dbt, star-schema e boas práticas.
 - **Educação & Linguagem**: Acredito na educação como ferramenta de transformação social.
 - **Cinema**: Apaixonado por narrativas e análise crítica.
 - **Matemática & Física**: Fascinado pela lógica por trás do funcionamento do universo.
