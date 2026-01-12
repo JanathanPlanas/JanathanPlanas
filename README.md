@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Janathan Planas
 
-🎓 Sou graduado em Engenharia de Telecomunicações e atualmente curso mestrado na mesma área, com foco em **Processamento de Sinais e Imagens**. Tenho grande interesse em soluções inovadoras que conectam tecnologia, ciência e aprendizado contínuo.
+🎓 Sou graduado em Engenharia de Telecomunicações com enfãse em computação e atualmente curso mestrado na mesma área, com foco em **Processamento de Sinais e Imagens**. Tenho grande interesse em soluções inovadoras que conectam tecnologia, ciência e aprendizado contínuo.
 
 ---
 
