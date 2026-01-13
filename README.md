@@ -34,5 +34,11 @@ Tenho familiaridade com ferramentas e linguagens como:
   <a href ="https://www.linkedin.com/in/janathanplanas/" target ="_blank"><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href ="https://www.instagram.com/janathan_junior/" target ="_blank"><img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Airflow 2.8](https://img.shields.io/badge/airflow-2.8-orange.svg)](https://airflow.apache.org/)
+[![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
+[![DuckDB](https://img.shields.io/badge/duckdb-sql%20engine-yellow.svg)](https://duckdb.org/)
+[![Delta Lake](https://img.shields.io/badge/delta-lake-acid-blueviolet.svg)](https://delta.io/)
+[![Tests](https://img.shields.io/badge/tests-73%20passed-green.svg)]()
  
 </div>
